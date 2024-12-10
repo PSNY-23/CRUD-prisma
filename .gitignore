@@ -1,3 +1,48 @@
-node_modules
-# Keep environment variables out of version control
+# Node.js dependencies
+node_modules/
+
+# Compiled TypeScript files
+dist/
+
+# Environment variables
 .env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Coverage reports
+coverage/
+
+# Build artifacts
+*.out
+*.lock
+
+# Prisma client and artifacts
+prisma/dev.db
+prisma/dev.db-journal
+prisma/migrations/
+
+# Optional for TypeScript
+*.tsbuildinfo
+
+# Other
+*.bak
+*.old
