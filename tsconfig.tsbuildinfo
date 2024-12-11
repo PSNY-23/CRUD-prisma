@@ -1,1 +1,1 @@
-{"root":["./src/index.ts","./src/prismaclient.ts","./src/controllers/postcontroller.ts","./src/routes/postroute.ts"],"version":"5.7.2"}
+{"root":["./src/index.ts","./src/prismaclient.ts","./src/controllers/postcontroller.ts","./src/routes/postroute.ts","./src/routes/routes.ts"],"version":"5.7.2"}
